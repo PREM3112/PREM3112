@@ -1,7 +1,7 @@
 ## Ex:03 Admin User using function-based views
-## DATE:
-## NAME:
-## DEPT:
+## DATE: 21/11/23
+## NAME: PREM.R
+## DEPT: AIML
 ## AIM:
 TO CREATE A ADMIN USER USING FUNCTION BASED VIEWS
 ## Step 1: Create a Django Project
