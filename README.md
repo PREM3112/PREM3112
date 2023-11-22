@@ -29,7 +29,7 @@ You can verify that the users have been created with the specified attributes by
 
 Visit http://localhost:8000/admin/ 
 ## OUTPUT:
-![ADMIN USER](https://github.com/PREM3112/PREM3112/assets/145449383/de979c41-722c-4fa9-9c8b-42ef494fa13e)
+![Alt text](<ADMIN USER.png>)
 ## RESULT:
 The desired output is provided successfully.
 
